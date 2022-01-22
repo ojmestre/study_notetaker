@@ -1,4 +1,4 @@
-# Semi-automated Note Taker
+# Semi-Automated Note Taker
 A semi-automated note taker application for observational usability and research studies.
 
 <h2> The Need </h2>
