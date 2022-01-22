@@ -13,7 +13,7 @@ A semi-automated note taker application for observational usability and research
 
 <h2> Methods </h2>
 <p>
-  This effort was a collaboration between internal developers, human systems researchers, and other teams within our agency, once word of the application development got out!  When more teams expressed their desire for an application like this, we took a step back and developed use cases and user stories to make sure we could fulfill each teams needs. After having a set of requirements outlined, wireframing and mockups began.
+  This effort is a collaboration between internal developers, human systems researchers, and other teams within our agency, once word of the application development got out!  When more teams expressed their desire for an application like this, we took a step back and developed use cases and user stories to make sure we could fulfill each teams needs. After having a set of requirements outlined, wireframing and mockups began.
 </p>
   
 <h2> The Benefits </h2>
