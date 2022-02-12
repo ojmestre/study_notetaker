@@ -8,12 +8,12 @@ A semi-automated note taking application for observational usability and researc
 
 <h3> Background </h3>
 <p>
-  Studies for this team involve human systems researchers observing operator interactions with user interface displays, other operators, supervisors and other systems as well.  Tracking the different verbal and visual interactions of one or multiple operators is difficult, and human systems researchers typically fell behind while taking manual notes.  A semi-automated note taking application allows them to log pre-determined, time-stamped observations, milestones and notes.
+  Studies for our team involve human systems researchers observing operator interactions with user interface displays, other operators, supervisors and other systems as well.  Tracking the different verbal and visual interactions of one or multiple operators is difficult, and human systems researchers typically fell behind while taking manual notes.  A semi-automated note taking application allows them to log pre-determined, time-stamped observations, milestones and notes.
 </p>
 
 <h2> Methods </h2>
 <p>
-  This effort is a collaboration between internal developers, human systems researchers, and other teams within our agency, once word of the application development got out!  When more teams expressed their desire for an application like this, we took a step back and developed use cases and user stories to make sure we could fulfill each teams needs. After having a set of requirements outlined, wireframing and mockups began.
+  This effort is a collaboration between internal developers, human systems researchers, and other teams within our agency, once word of the application development got out!  When more teams expressed their desire for an application like this, we took a step back and developed use cases and user stories to make sure we could fulfill each teams needs. After having a set of requirements outlined, wireframing and mockups began.  I've personally contributed by guiding the team in developing sound use cases and requirements for the applications development, as well as reviewing iterations and providing feedback from a users point of view.
 </p>
   
 <h2> The Benefits </h2>
